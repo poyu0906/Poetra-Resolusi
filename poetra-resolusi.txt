@@ -1,3 +1,4 @@
 Poetra Resolusi
 - Menguasai fundamental
 - Fokus Step untuk frontend dev
+- terlibat project di akhir pembelajaran
